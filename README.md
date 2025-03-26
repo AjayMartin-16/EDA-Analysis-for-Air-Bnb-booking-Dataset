@@ -72,6 +72,4 @@ B. Ajay Martin Ferdinand
 - Data provided by AlmaBetter.
 - Thanks to the data science community for insights and guidance.
 
-## GitHub Repository
-[Provide your GitHub link here]
 
